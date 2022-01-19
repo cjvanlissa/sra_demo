@@ -4,3 +4,7 @@
 # to store the data.
 
 library(worcs)
+data <- iris
+data[["Species"]] <- NULL
+
+closed_data(data)

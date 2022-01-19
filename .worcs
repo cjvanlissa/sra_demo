@@ -7,4 +7,4 @@ data:
     codebook: codebook_data.Rmd
 checksums:
   data.csv: 18977bb848a63f162cc132e15d84f47a
-  synthetic_data.csv: 5ad02cde348c459443223e60083ee902
+  synthetic_data.csv: 7f163a23ee370ee9e5c23841b47d8f6a
