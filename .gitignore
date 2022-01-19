@@ -10,3 +10,6 @@
 *.log
 *.tex
 .Rproj.user
+data.csv
+!synthetic_data.csv
+!codebook_data.csv

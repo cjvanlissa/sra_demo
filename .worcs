@@ -1,3 +1,10 @@
 worcs_version: 0.1.8
 creator: Lissa102
 entry_point: manuscript/manuscript.Rmd
+data:
+  data.csv:
+    synthetic: synthetic_data.csv
+    codebook: codebook_data.Rmd
+checksums:
+  data.csv: 18977bb848a63f162cc132e15d84f47a
+  synthetic_data.csv: 5ad02cde348c459443223e60083ee902
