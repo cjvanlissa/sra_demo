@@ -1,19 +1,15 @@
 ---
-title           : "My preregistration for the COS Preregistration Challenge"
+title           : "SRA Demo prereg"
 shorttitle      : "My preregistration"
 date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
 
 author: 
-  - name        : First Author
+  - name        : Caspar van Lissa
     affiliation : 1
-  - name        : Ernst-August Doelle
-    affiliation : "1,2"
 
 affiliation:
   - id          : 1
-    institution : Wilhelm-Wundt-University
-  - id          : 2
-    institution : Konstanz Business School
+    institution : Utrecht University
 
 output: prereg::cos_prereg
 ---
@@ -33,15 +29,14 @@ Example: Effect of sugar on brownie tastiness. -->
 
 Example: Though there is strong evidence to suggest that sugar affects taste preferences, the effect has never been demonstrated in brownies. Therefore, we will measure taste preference for four different levels of sugar concentration in a standard brownie recipe to determine if the effect exists in this pastry. -->
 
-Enter your response here.
-
+I'm just gonna do a linear model with the iris data.
 
 ## Hypotheses
 <!-- List specific, concise, and testable hypotheses. Please state if the hypotheses are directional or non-directional. If directional, state the direction. A predicted effect is also appropriate here. If a specific interaction or moderation is important to your research, you can list that as a separate hypothesis.
 
 Example: If taste affects preference, then mean preference indices will be higher with higher concentrations of sugar. -->
 
-Enter your response here.
+Sepal.Length will significantly predict Sepal.Width.
 
 
 # Design Plan
